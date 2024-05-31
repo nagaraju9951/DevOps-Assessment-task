@@ -53,4 +53,4 @@ jobs:
     - name: Deploy to AWS
       run: |
         # Add deployment script here
-        # Example: aws s3 sync ./dist s3://your-bucket-name
+        # Example: aws s3 sync ./dist s3://mk-1-tk-1nh
